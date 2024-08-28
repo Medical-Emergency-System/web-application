@@ -1,0 +1,14 @@
+{
+    "name": "Emergency Support System",
+    "short_name": "ESS",
+    "start_url": "../emergency",
+    "display": "standalone",
+    "background_color": "#2A3443",
+    "description": "A demo app for a fictional conference",
+    "theme_color": "#2A3443",
+    "icons": [{
+        "src": "icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }]
+}
